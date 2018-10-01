@@ -12,14 +12,14 @@ module BorderlessCsv
     end
 
     def process(data)
-      row = data.map do |row|
+      rows = data.map do |row|
         [
           row['Date'].split('-').join('/'),
           row['Amount'],
           row['Description']
         ]
       end
-      row
+      rows
     end
 
     def write(output)
