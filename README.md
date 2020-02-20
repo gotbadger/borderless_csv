@@ -1,5 +1,5 @@
 # BorderlessCsv
-Tool for creating simple csv files form transferwise accounts for accountacy purposes...
+Tool for creating simple csv files from transferwise accounts for accountacy purposes...
 
 ## Installation
 
