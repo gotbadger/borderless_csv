@@ -1,3 +1,6 @@
+# Archived
+Freeagent now supports transferwise directly
+
 # BorderlessCsv
 Tool for creating simple csv files from transferwise accounts for accountacy purposes...
 
